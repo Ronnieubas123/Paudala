@@ -1,4 +1,0 @@
-2020-07-25T04:33:29+00:00 CRITICAL require(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\paudala\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
-
-2020-07-25T04:34:12+00:00 CRITICAL require(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\paudala\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
-
